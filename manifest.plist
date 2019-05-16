@@ -40,7 +40,7 @@
  <string>software</string>
  <key>subtitle</key>
  <string>App</string>
- <key>UONE</key>
+ <key>title</key>
  <string>UONE</string>
  </dict>
  </dict>
